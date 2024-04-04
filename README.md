@@ -44,7 +44,7 @@
     "
 >
 
-<img src='https://github-readme-stats.vercel.app/api?username=Josimar2006&show_icons=true&theme=dark&title_color=0F0&text_color=9D9&locale=pt-br&count_private=true' width="45%" height="50%" />
+<img src='https://github-readme-stats.vercel.app/api?username=Josimar2006&show_icons=true&theme=dracula&title_color=0F0&text_color=9D9&locale=pt-br&count_private=true' width="45%" height="50%" />
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar2006&layout=compact&langs_count=10&hide=cmake&theme=dark' width="45%" height="50%" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar2006&layout=compact&langs_count=10&hide=cmake&theme=dracula' width="45%" height="50%" />
 </div>
